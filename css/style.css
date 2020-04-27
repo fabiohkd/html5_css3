@@ -1,0 +1,36 @@
+body{
+    background: rgb(155, 89, 248);
+    margin-left: 40px;
+    margin-right: 250px;
+}
+
+h1 {
+    color: rgb(158, 183, 17);
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    margin-top: 60px;
+}
+
+.img_padrao {
+    margin-bottom: 15px;
+    border: solid;
+    height: 20%;
+    width: 20%;
+}
+
+.logo {
+    border: solid red;
+    height: 20%;
+    width: 20%;
+}
